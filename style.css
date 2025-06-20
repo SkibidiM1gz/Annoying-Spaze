@@ -11,10 +11,11 @@ button {
   cursor: pointer;
 }
 
-img {
+.big-image {
+  width: 600px;
+  height: auto;
+  border-radius: 10px;
   display: block;
   margin: 20px auto;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 
